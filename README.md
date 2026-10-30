@@ -21,4 +21,5 @@ As regras mais importantes serão implementadas diretamente no banco de dados po
 - transações;
 - índices;
 - testes automatizados.
+
 A proposta atende à exigência de trabalhar com um problema identificável, regras de negócio reais e operações nas quais a lógica implementada no banco faça diferença. O documento alerta que um sistema que apenas realiza cadastros e listagens não é suficiente.
